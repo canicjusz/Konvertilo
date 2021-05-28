@@ -1,0 +1,26 @@
+{
+  "extName": {
+    "message": "Konvertilo: converter for esperanto diacritics."
+  },
+  "extDescription": {
+    "message": "Converter for esperanto letters. Use x-system, h-system or create your own!"
+  },
+  "buttonRemove": {
+    "message": "Remove"
+  },
+  "placeholderAdd": {
+    "message": "Type a character here"
+  },
+  "buttonAdd": {
+    "message": "Add system"
+  },
+  "turnOn": {
+    "message": "Turn On"
+  },
+  "turnOff": {
+    "message": "Turn Off"
+  },
+  "welcome": {
+    "message": "Saluton! Please refresh all pages so that Konvertilo can work. Feel free to rate the addon on Chrome Web Store or let me know about bugs at:"
+  }
+}

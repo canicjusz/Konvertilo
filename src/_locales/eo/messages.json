@@ -1,0 +1,26 @@
+{
+  "extName": {
+    "message": "Konvertilo: ilo por esperantaj kromsignoj."
+  },
+  "extDescription": {
+    "message": "Konvertilo por esperantaj literoj. Uzu x-sistemon, h-sistemon aŭ kreu vian propran!"
+  },
+  "buttonRemove": {
+    "message": "Forigi"
+  },
+  "placeholderAdd": {
+    "message": "Tajpu karaktron ĉi tie"
+  },
+  "buttonAdd": {
+    "message": "Aldoni sistemon"
+  },
+  "turnOn": {
+    "message": "Malŝalti"
+  },
+  "turnOff": {
+    "message": "Ŝalti"
+  },
+  "welcome": {
+    "message": "Saluton! Bonvolu, reŝargu ĉiujn paĝojn por ke Konvertilo povu funkcii. Ankaŭ lasu opinion ĉe Chrome Web Store aŭ sciigu min pri problemoj per:"
+  }
+}

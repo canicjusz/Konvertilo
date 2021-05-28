@@ -1,0 +1,26 @@
+{
+  "extName": {
+    "message": "Konvertilo: konwerter do esperanckich diakrytyków."
+  },
+  "extDescription": {
+    "message": "Konwerter do esperanckich leter. Używaj x-system, h-system lub stwórz swój własny!"
+  },
+  "buttonRemove": {
+    "message": "Usuń"
+  },
+  "placeholderAdd": {
+    "message": "Wprowadź znak tutaj"
+  },
+  "buttonAdd": {
+    "message": "Dodaj system"
+  },
+  "turnOn": {
+    "message": "Włącz"
+  },
+  "turnOff": {
+    "message": "Wyłącz"
+  },
+  "welcome": {
+    "message": "Saluton! Proszę o odświeżenie wszystkich stron, aby Konvertilo mogł działać. Zostaw opinię na Chrome Web Store albo daj mi znać o błędach poprzez:"
+  }
+}

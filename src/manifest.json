@@ -1,0 +1,33 @@
+{
+  "name": "__MSG_extName__",
+  "description": "__MSG_extDescription__",
+  "version": "1.0",
+  "default_locale": "en",
+  "manifest_version": 2,
+  "icons": {
+    "16": "icons/green_16.png",
+    "32": "icons/green_32.png",
+    "128": "icons/green_128.png"
+  },
+  "content_scripts": [
+    {
+      "matches": ["<all_urls>"],
+      "js": ["inject.js"],
+      "all_frames": true
+    }
+  ],
+  "background": {
+    "scripts": ["background.js"]
+  },
+  "browser_action": {
+    "default_popup": "popup/index.html",
+    "default_title": "Konvertilo",
+    "default_icon": {
+      "16": "icons/green_16.png",
+      "32": "icons/green_32.png",
+      "128": "icons/green_128.png"
+    }
+  },
+  "author": "Jan Michalak",
+  "permissions": ["storage"]
+}
